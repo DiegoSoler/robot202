@@ -87,13 +87,13 @@ A lista de todas as possibilidades que seu programa pode encontrar [está neste 
 
 Comandos para atualizar os repositório
 ```bash
-    cd ~catkin_ws/src/mybot_description
+    cd ~/catkin_ws/src/mybot_description
     git stash
     git pull
-    cd ~catkin_ws/src/my_simulation
+    cd ~/catkin_ws/src/my_simulation
     git checkout master
     git pull
-    cd ~catkin_ws/src/robot202
+    cd ~/catkin_ws/src/robot202
     git pull
 ```
 
